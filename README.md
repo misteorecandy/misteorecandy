@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sylvio Andrés Burgos (`misteorecandy`) 🛡️⚡
+# ¡Hola! Soy Sylvio Andrés Burgos (`misteorecandy`)
 
 Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de herramientas defensivas en Python. Me enfoco en desarmar amenazas mediante ingeniería inversa, auditar arquitecturas de red y aplicaciones web (OWASP Top 10), y construir soluciones prácticas para fortalecer sistemas reales.
 
