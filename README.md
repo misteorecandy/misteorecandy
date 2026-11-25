@@ -31,7 +31,7 @@ Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de h
 ### 🦠 Análisis Forense de Malware & Auditorías Técnicas
 * **[Hardware PIN Locker (`com.cute.pin`)](https://github.com)** — *Criptoanálisis de llaves AES hardcoded, extracción de cargas binarias ofuscadas y abuso de la API DeviceAdmin.*
 * **[Arqueología Digital: Troyano "xHelper"](https://github.com)** — *Estudio de persistencia cíclica, servicios invisibles en segundo plano y su neutralización arquitectónica en Android 14.*
-* **[Screen Locker "Verity 2"](https://github.com)** — *Ingeniería inversa de secuestro gráfico (`WindowManager`) y persistencia en el arranque del sistema.*
+* **[Screen Locker "Verity 2"](https://github.com/misteorecandy/An-lisis-De-un-Ransomware-verity-2)** — *Ingeniería inversa de secuestro gráfico (`WindowManager`) y persistencia en el arranque del sistema.*
 * **[Auditoría GameDev: Caso "Bridge Worm" / HD Admin](https://github.com/misteorecandy/Una-vulnerabilidad-en-hd-admin-de-roblox)** — *Análisis de explotación de coordenadas (`CFrame`) en Luau y diseño de arquitectura segura orientada a servidor.*
 * **[Troyano Bancario/Credenciales "Granny is Zombie"](https://github.com)** — *Desglose de ataques Credential Overlay y camuflaje mediante SDKs publicitarios.*
 
