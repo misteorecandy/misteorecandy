@@ -43,3 +43,19 @@ Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de h
 
 ---
 *“El conocimiento no se demuestra con un título, se demuestra resolviendo problemas en el mundo real.”*
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=misteorecandy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=misteorecandy&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=misteorecandy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=misteorecandy&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=misteorecandy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=misteorecandy&icon=1&color=6f42c1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
