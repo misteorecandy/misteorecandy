@@ -26,7 +26,7 @@ Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de h
 ## 🚀 Portafolio de Herramientas e Investigaciones
 
 ### 🛠️ Desarrollo de Herramientas Defensivas (Código Abierto)
-* **[Web Security Recon & Audit Suite (Python)](https://github.com)** — *Suite CLI modular con 6 herramientas y laboratorios para auditoría de cabeceras, fuzzing de directorios, OSINT HTML, escaneo XSS y detección/defensa de Inyección SQL.*
+* **[Web Security Recon & Audit Suite (Python)](https://github.com/misteorecandy/Web-Header-Auditor-Python)** — *Suite CLI modular con 6 herramientas y laboratorios para auditoría de cabeceras, fuzzing de directorios, OSINT HTML, escaneo XSS y detección/defensa de Inyección SQL.*
 
 ### 🦠 Análisis Forense de Malware & Auditorías Técnicas
 * **[Hardware PIN Locker (`com.cute.pin`)](https://github.com)** — *Criptoanálisis de llaves AES hardcoded, extracción de cargas binarias ofuscadas y abuso de la API DeviceAdmin.*
