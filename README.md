@@ -38,7 +38,7 @@ Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de h
 ---
 
 ## 🌐 Identidad Científica & Perfiles
-* 🔗 **ORCID:** [0009-0002-6095-5907](https://orcid.org)
+* 🔗 **ORCID:** [0009-0002-6095-5907](https://orcid.org/my-orcid?orcid=0009-0002-6095-5987)
 * 🐧 **Entorno Operativo:** Linux (Debian) / Nmap / Python 3 / JADX
 
 ---
