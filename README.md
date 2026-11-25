@@ -1,33 +1,45 @@
-# ¡Hola! Soy Sylvio Andrés Burgos (misteorecandy)
+# ¡Hola! Soy Sylvio Andrés Burgos (`misteorecandy`) 🛡️⚡
 
-Soy un apasionado de la **Ciberseguridad** y el **Análisis de Malware**. Me enfoco en desarmar amenazas, entender la lógica de los atacantes y aplicar ingeniería inversa para construir soluciones defensivas. Cuestiono los modelos tradicionales y prefiero demostrar mis habilidades con proyectos reales en el mundo digital.
-
----
-
-## 🛠️ Tecnologías y Habilidades
-
-### 💻 Lenguajes de Programación
-*   **Java:** Utilizado para el análisis de aplicaciones nativas de Android, descompilación de APKs y detección de ataques de inyección (*Overlay Attacks*).
-*   **Python:** Aplicado al desarrollo de scripts de automatización, análisis de datos y herramientas de seguridad.
-
-### 🛡️ Áreas de Enfoque en Ciberseguridad
-*   **Ingeniería Inversa:** Descompilación y análisis estático de software y aplicaciones móviles.
-*   **Análisis de Malware:** Investigación de comportamiento de troyanos, adware y vectores de phishing en entornos seguros (Sandbox).
-*   **Seguridad Defensiva:** Identificación de Indicadores de Compromiso (IoCs) y mitigación de riesgos.
+Investigador de **Ciberseguridad**, **Analista de Malware** y desarrollador de herramientas defensivas en Python. Me enfoco en desarmar amenazas mediante ingeniería inversa, auditar arquitecturas de red y aplicaciones web (OWASP Top 10), y construir soluciones prácticas para fortalecer sistemas reales.
 
 ---
 
-## 🔬 Proyectos Destacados
+## 🛠️ Stack Tecnológico y Especialidades
 
-*   [Análisis de Malware: Troyano "Granny is Zombie"](https://github.com/misteorecandy/An-lisis-del-malware-Granny-is-Zombie-)
-    *   *Investigación técnica detallada sobre un ataque de Credential Overlay en Android mediante la descompilación de una APK modificada.*
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Android Security](https://shields.io)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white)
+
+
+* **Seguridad Web & Automatización (Python):** Desarrollo de suites CLI para enumeración HTTP, *Directory Fuzzing*, extracción OSINT en HTML y detección/mitigación de **XSS** e **Inyección SQL**.
+* **Ingeniería Inversa & Malware Analysis:** Descompilación de APKs, análisis estático/dinámico en Sandbox, criptoanálisis de llaves AES hardcoded y evaluación de persistencia en Android.
+* **Auditoría de Redes & GameDev:** Enumeración activa con Nmap/NSE y análisis de lógica de negocio Cliente-Servidor en motores de videojuegos.
 
 ---
 
-## 📊 Objetivos Actuales
-*   🔬 Expandir mis análisis de ciberseguridad hacia binarios complejos.
-*   📈 Aplicar finanzas cuantitativas y modelos de crecimiento de capital utilizando código.
-*   🔗 Registrar mis investigaciones técnicas en el ecosistema científico global (ORCID).
+## 🚀 Portafolio de Herramientas e Investigaciones
+
+### 🛠️ Desarrollo de Herramientas Defensivas (Código Abierto)
+* **[Web Security Recon & Audit Suite (Python)](https://github.com)** — *Suite CLI modular con 6 herramientas y laboratorios para auditoría de cabeceras, fuzzing de directorios, OSINT HTML, escaneo XSS y detección/defensa de Inyección SQL.*
+
+### 🦠 Análisis Forense de Malware & Auditorías Técnicas
+* **[Hardware PIN Locker (`com.cute.pin`)](https://github.com)** — *Criptoanálisis de llaves AES hardcoded, extracción de cargas binarias ofuscadas y abuso de la API DeviceAdmin.*
+* **[Arqueología Digital: Troyano "xHelper"](https://github.com)** — *Estudio de persistencia cíclica, servicios invisibles en segundo plano y su neutralización arquitectónica en Android 14.*
+* **[Screen Locker "Verity 2"](https://github.com)** — *Ingeniería inversa de secuestro gráfico (`WindowManager`) y persistencia en el arranque del sistema.*
+* **[Auditoría GameDev: Caso "Bridge Worm" / HD Admin](https://github.com)** — *Análisis de explotación de coordenadas (`CFrame`) en Luau y diseño de arquitectura segura orientada a servidor.*
+* **[Troyano Bancario/Credenciales "Granny is Zombie"](https://github.com)** — *Desglose de ataques Credential Overlay y camuflaje mediante SDKs publicitarios.*
+
+---
+
+## 🌐 Identidad Científica & Perfiles
+* 🔗 **ORCID:** [0009-0002-6095-5907](https://orcid.org)
+* 🐧 **Entorno Operativo:** Linux (Debian) / Nmap / Python 3 / JADX
 
 ---
 *“El conocimiento no se demuestra con un título, se demuestra resolviendo problemas en el mundo real.”*
